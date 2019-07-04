@@ -1,0 +1,8 @@
+[package]
+name = "mean_median_mode"
+version = "0.1.0"
+authors = ["rdcpp <zzzz1362@naver.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
